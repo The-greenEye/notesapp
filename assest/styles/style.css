@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  overflow-x: hidden;
+}
+.material-icons {
+  cursor: pointer;
+}
+.The-Incloudes {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#title {
+  width: 100%;
+  outline: none;
+  border: none;
+  padding: 15px;
+  font-family: cursive;
+  font-weight: bolder;
+  font-size: 26px;
+}
+#The-boos-To-Creater {
+  width: 100%;
+  padding: 15px;
+  outline: none;
+  border: none;
+}
